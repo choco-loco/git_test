@@ -1,0 +1,1 @@
+This is choco-loco's first git project!
